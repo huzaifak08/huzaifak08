@@ -21,7 +21,7 @@
    <a href="https://twitter.com/huzaifak08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://linkedin.com/huzaifak08">
+   <a href="https://linkedin.com/huzaifak_08">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
