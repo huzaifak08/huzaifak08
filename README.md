@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://twitter.com/huzaifak08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
    <a href="https://linkedin.com/huzaifak08">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
