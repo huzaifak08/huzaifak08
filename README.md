@@ -21,10 +21,6 @@
    <a href="https://twitter.com/huzaifak08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <div>
-  <h4>Phone Number:</h4>
-  <p>+92 318 0794547</p>
- </div>
 </div>
 
 ### Languages and Tools:
