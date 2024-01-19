@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: hk7928042@gmail.com
-- 😄 My website: COMING SOON
+- 😄 My website: https://huzaifak08.netlify.app/
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
