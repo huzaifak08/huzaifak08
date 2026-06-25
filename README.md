@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: huzaifa.uno@gmail.com
+- 📫 How to reach me: contact@huzaifakhan.com
 - 😄 My website: https://huzaifakhan.com/
 - ⚡ Fun fact: I'm comming to teen
   
